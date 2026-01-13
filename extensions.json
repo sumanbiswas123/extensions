@@ -3,7 +3,7 @@
     "id": "spdft-tool",
     "name": "spdft-tool",
     "description": "The Image Patch & Assembly Tool for patching and processing images.",
-    "version": "1.5.0",
+    "version": "1.5.2",
     "icon": "🔧",
     "author": "Suman Biswas",
     "channel": "eDa",
