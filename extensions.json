@@ -7,6 +7,8 @@
     "icon": "🔧",
     "author": "Suman Biswas",
     "channel": "eDa",
+    "type": "nextjs",
+    "localFolderName": "BGPatcher.v1.0.0(2)",
     "releaseUrl": "https://github.com/sumanbiswas123/SPDFT-Tool/releases/download/extension/BGPatcher.zip"
   },
   {
@@ -18,6 +20,6 @@
     "author": "Suman Biswas",
     "channel": "Web",
     "type": "exe",
-    "releaseUrl": "https://github.com/sumanbiswas123/ScreenSaver/releases/download/screensaver/screensaver.exe"
+    "releaseUrl": "https://github.com/sumanbiswas123/ScreenSaver/releases/download/extension/screensaver.exe"
   }
 ]
