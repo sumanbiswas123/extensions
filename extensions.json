@@ -9,7 +9,7 @@
     "channel": "eDa",
     "releaseUrl": "https://github.com/sumanbiswas123/SPDFT-Tool/releases/download/extension/BGPatcher.zip"
   },
-   {
+  {
     "id": "screensaver",
     "name": "ScreenSaver",
     "description": "A utility designed to capture interactive task screenshots and seamlessly produce a final PDF suitable for direct upload.",
@@ -17,6 +17,7 @@
     "icon": "🔧",
     "author": "Suman Biswas",
     "channel": "Web",
+    "type": "exe",
     "releaseUrl": "https://github.com/sumanbiswas123/ScreenSaver/releases/download/screensaver/screensaver.exe"
   }
 ]
