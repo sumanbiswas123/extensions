@@ -8,5 +8,15 @@
     "author": "Suman Biswas",
     "channel": "eDa",
     "releaseUrl": "https://github.com/sumanbiswas123/SPDFT-Tool/releases/download/extension/BGPatcher.zip"
+  },
+   {
+    "id": "screensaver",
+    "name": "ScreenSaver",
+    "description": "The Image Patch & Assembly Tool for patching and processing images.",
+    "version": "1.0.0",
+    "icon": "🔧",
+    "author": "Suman Biswas",
+    "channel": "Web",
+    "releaseUrl": "https://github.com/sumanbiswas123/ScreenSaver/releases/download/screensaver/screensaver.exe"
   }
 ]
