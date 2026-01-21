@@ -12,7 +12,7 @@
    {
     "id": "screensaver",
     "name": "ScreenSaver",
-    "description": "The Image Patch & Assembly Tool for patching and processing images.",
+    "description": "A utility designed to capture interactive task screenshots and seamlessly produce a final PDF suitable for direct upload.",
     "version": "1.0.0",
     "icon": "🔧",
     "author": "Suman Biswas",
